@@ -7,11 +7,16 @@ Credit to [Adam Dueck](https://github.com/adueck)
 
 Manifest icon generator: [SimiCart](https://www.simicart.com/manifest-generator.html/)
 
+## Clone specific branch to a new repository
+```
+git clone -b <branchname> <remote-repo-url> <new-repo-name>
+```
+
 ## Development
 
 ```
 yarn install
-yarn dev
+yarn devremote-repo-url
 ```
 
 ## Building
