@@ -16,7 +16,7 @@ git clone -b <branchname> <remote-repo-url> <new-repo-name>
 
 ```
 yarn install
-yarn devremote-repo-url
+yarn dev
 ```
 
 ## Building
