@@ -12,6 +12,9 @@ Manifest icon generator: [SimiCart](https://www.simicart.com/manifest-generator.
 git clone -b <branchname> <remote-repo-url> <new-repo-name>
 ```
 
+## PWA manifest
+Configure web app manifest via _vite.config.ts_
+
 ## Development
 
 ```
